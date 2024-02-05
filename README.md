@@ -9,7 +9,7 @@ I started studying programming at the end of 2022, during which time I learned t
 *   🌍  I'm based in Россия
 *   🖥️  See my portfolio at [My repositories](http://https://github.com/RomaRoof?tab=repositories)
 *   ✉️  You can contact me at [brenankial@gmail.com](mailto:brenankial@gmail.com)
-*   🧠  I'm learning D
+*   🧠  I'm learning Data Scientist
 *   🤝  I'm open to collaborating on I'm very glad to take part in your projects based on Java and Python, as well as everything related to neural networks.
 *   ⚡  11 years of working as an electrician probably also means something...### Skills 
 <p align="left">
